@@ -1,0 +1,15 @@
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/bin/Debug/net8.0/FizzBuzzProject
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/bin/Debug/net8.0/FizzBuzzProject.deps.json
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/bin/Debug/net8.0/FizzBuzzProject.runtimeconfig.json
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/bin/Debug/net8.0/FizzBuzzProject.dll
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/bin/Debug/net8.0/FizzBuzzProject.pdb
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.AssemblyInfoInputs.cache
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.AssemblyInfo.cs
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.csproj.CoreCompileInputs.cache
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.sourcelink.json
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.dll
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/refint/FizzBuzzProject.dll
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.pdb
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/FizzBuzzProject.genruntimeconfig.cache
+/Users/ernestocornejo/Documents/GitHub/FizzBuzzC-/FizzBuzzProject/obj/Debug/net8.0/ref/FizzBuzzProject.dll
